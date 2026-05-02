@@ -1,0 +1,35 @@
+.sub1{
+    display:flex;
+    font-size:6px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: space-evenly;
+    background-color: orangered;
+    padding:15px;
+    color:antiquewhite;
+}
+.sub2{
+    background-color: black;
+    color:antiquewhite;
+    padding:10px;
+}
+.collapse{
+ text-align: right;
+}
+.main1 .card .card-body{
+    background-color: orangered;
+    border:10px solid orangered;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.card{
+    width:300px;
+    
+}
+
+h5{
+    text-align: center;
+  
+}
