@@ -1,0 +1,220 @@
+.img1{
+    height:300px;
+}
+/* navbar1 */
+.nav1{
+    margin-left: 100px;
+ 
+}
+.r1{
+    display: flex;
+    justify-content: end;
+}
+.sear{
+    width:600px;
+    height:50px;
+    margin-top: auto;
+    border:none;
+}
+.borders{
+    border:1px solid black;
+    margin-top:15px;
+}
+.sear1{
+    height:50px;
+     margin-top: auto;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navtitle{
+    color:rgb(63, 12, 48);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.vertical-line {
+  border-left: 1px solid black; /* Width, style, and color of the line */
+  height: 70px;                /* Length of the line */
+  /* Other positioning properties as needed */
+}
+/* search icon inside */
+
+ /*  */
+ .textb{
+    background-color: rgb(248, 227, 242);
+    height:70px;
+    padding-left:35px;
+    padding-top:13px;
+    
+ }
+ .textc{
+    background-color: white;
+    height:50px;
+    border:1px solid purple;
+    width:1200px;
+    border-radius: 10px;
+ }
+ /* cards */
+/* carousel */
+/* .gold{
+    color:gold;
+    margin-bottom:180px;
+    margin-right:550px; */
+
+.gold1{
+    color:gold;
+   
+}
+.car{
+    background-color: rgb(51, 2, 2);
+    height:500px;
+}
+.image{
+    border-radius: 40%;
+}
+.card{
+    border:none;
+}
+.cards1{
+    border-radius: 30%;
+}
+.main3{
+    height:400px;
+    width:600px;
+}
+.imagine{
+    border-radius: 30%;
+}
+.tex{
+    color: rgb(51, 2, 2)
+}
+/* 4th part */
+
+.card2{
+    border:3px solid grey;  
+}
+.text1{
+    background-color: rgb(173, 96, 245);
+    height:30px;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+.purple{
+    color:purple;
+    font-weight: bold;
+}
+/* marquee */
+.mar{
+    background-color: rgb(242, 219, 246);
+    height:150px;
+}
+/* 1st card */
+.cardmain{
+    background-color: rgb(245, 208, 214);
+}
+.card1{
+    background-color: rgb(232, 144, 158);
+}
+.texs{
+    background-color: rgb(242, 67, 96) ;
+}
+/* 6th part */
+.img1{
+    background-color: orange;
+}
+.img2{
+    background-color: purple;
+}
+.shadow{
+   
+    border:2px solid black;
+}
+.card3{
+    box-shadow: 3px 3px 3px 3px orange;
+    border-radius: 10px;
+}
+.finaltex{
+    color:purple;
+    background-color: bisque;
+    border:2px solid black;
+    font-weight: bold;
+    text-align: center;
+}
+/* 7th part */
+.card4{
+    border:1px solid grey;
+}
+.rupee{
+    font-size: 26px;
+}
+.rupee2{
+    font-size: 20px;
+}
+.delivery{
+    font-size: small;
+    background-color: rgb(229, 229, 245);
+    width:100px;
+    text-align: center;
+    border-radius: 10px;
+}
+.star{
+    background-color: green;
+    color:white;
+    width:50px;
+    text-align: center;
+}
+.review{
+    font-size: small;
+    margin-left: 10px;
+}
+/* 7th leftpart */
+.left{
+    background-color:rgb(218, 236, 237);
+}
+.sort{
+    border:1px solid black;
+    text-align: center;
+    margin-top: 5px;
+    color:white;
+}
+.search1{
+    border:1px solid black;
+}
+.gender1{
+    border:1px solid grey;
+    border-radius: 20px;
+    text-align: center;
+    gap:2px;
+}
+/* 8th part */
+.final{
+    background-color: whitesmoke;
+}
+.icon1{
+    background-color: black;
+    color:white;
+    border-radius: 15px;
+    margin-top:10px;
+}
+.icon2{
+    background-color: black;
+    color:white;
+     border-radius: 15px;
+       margin-top:10px;
+    
+}
+li{
+    list-style-type:none;
+  
+}
+a{
+  text-decoration: none;
+}
+.meeshomain{
+    overflow: hidden;
+}

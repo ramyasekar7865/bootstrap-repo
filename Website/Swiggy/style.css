@@ -1,0 +1,206 @@
+ *{
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+.main{
+    background-color: rgb(237, 95, 8);
+}
+.text{
+  text-align: center;
+}
+.searchinput{
+    background-color: transparent;
+    border: 0px none;
+}
+.input2{
+    border:1px solid black;
+}
+.b{
+    background-color: rgb(255, 128, 0);
+    text-decoration: none;
+    font-weight: bold;
+    color:white;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+.card-1{
+   border-radius:15px;
+   padding:3px;
+margin-left: 5px;
+height:220px;
+}
+.sicon{
+    border:none;
+}
+.p5{
+    width:1250px;
+    height:10px;
+    margin-bottom: 500px;
+ 
+}
+.arrow{
+    margin-top: 70px;
+}
+.dp{
+    margin-right:10px;
+}
+.loc{
+    margin-right:10px;
+}
+.img{
+       height:auto;
+      max-width:100%;
+}
+.menu{
+    text-align: center;
+}
+.cards{
+    border:none;
+    padding:15px;
+    margin-top:3px;
+}
+h3{
+   margin-left:50px;
+   margin-top:5px;
+}
+.ar{
+    margin-top:10px;
+}
+/* 3rd part */
+.res{
+    background-color: rgb(178, 239, 239);
+}
+.resimg{
+    height:200px;
+    width:317px;
+    margin-left:4px;
+    border:none;
+}
+a{
+    text-decoration: none;
+    color:black;
+    /* background-color: aquamarine; */
+    font-size:smaller;
+    
+}
+
+.b2{
+    text-align: start;
+  
+}
+.p2{
+    background-color: green;
+    margin:5px;
+}
+.sp{
+    margin-top:10px;
+}
+.b1{
+    background-color: grey;
+     margin:5px;
+}
+.b3{
+    background-color: rgb(236, 196, 109);
+     margin:5px;
+}
+.card-titles{
+    font-weight: bold;
+    color:blue;
+}
+.three{
+    background-color: rgb(240, 152, 230);
+    height:600px;
+}
+.two{
+    height:630px;
+    background-color: rgb(213, 177, 247);
+
+}
+.black{
+    height:250px;
+    background-color: black;
+}
+/* 4th part */
+.scan{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.swiggy{
+    color:rgb(224, 75, 11);
+}
+/* 5th part */
+.bor{
+    border:1px solid black;
+    border-radius: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+.bor1{
+    border:1px solid black;
+    border-radius: 150px;
+    text-align: center;
+    height:50px;
+    /* margin-top:5px; */
+     font-weight: bold;
+     color:orangered;
+}
+.four{
+    background-color: rgb(208, 227, 248);
+}
+/*  */
+.lll{
+    border:1px solid black;
+}
+li{
+    list-style-type:none;
+}
+.rows{
+    width:700px;
+    font-size: 18px;
+}
+.cols{
+    width:150px;
+    margin-top:7px;
+
+}
+
+.six{
+background-color: whitesmoke;
+}
+/*  */
+.final{
+    background-color: whitesmoke;
+}
+.code{
+   height:500px;
+    color:black;
+}
+.icon1{
+    background-color: black;
+    color:white;
+    border-radius: 15px;
+    margin-top:10px;
+}
+.icon2{
+    background-color: black;
+    color:white;
+     border-radius: 15px;
+       margin-top:10px;
+    
+}
+.oo{
+    height:100px;
+}
+.card-header1{
+    background-color: blueviolet;
+}
+.card-header2{
+    background-color: rgb(241, 43, 211);
+}
+.card-header3{
+    background-color: rgb(94, 119, 245);
+}

@@ -1,0 +1,261 @@
+/* nav1 */
+.search{
+    border:none;
+   background-color: rgb(233, 63, 63);
+   
+}
+.searchicon{
+         border:1px solid black;
+          border-radius: 50px;
+          background-color: rgb(233, 63, 63);
+}
+.icon{
+    color:red;
+    background-color: yellow;
+    border:none;
+    height:30px;
+    width:30px;
+}
+.red{
+   background-color: rgb(233, 63, 63);
+}
+.yellow{
+    color:yellow;
+}
+/* navbar2 */
+.navtext{
+    color: rgb(233, 63, 63);
+}
+.line{
+   margin-top: 5px;
+}
+/* 3rd part */
+.caro{
+    background-color: whitesmoke;
+    height:100px;
+}
+/* 4th part */
+.grid{
+   height:470px;
+   background-color:rgb(233, 63, 63);
+}
+.box2{
+  border-radius: 20px;
+}
+.box3{
+   border-radius: 20px;
+}
+/* 5th part */
+.circle{
+     border:2px dashed red;
+     border-radius: 50%;
+     background-color: yellow;
+     height:150px;
+     width:170px;
+     font-weight: bold;
+     font-size:26px;
+   text-align: center;
+   padding:20px;
+}
+.aqua{
+     border:2px dashed red;
+     border-radius: 50%;
+     background-color: aqua;
+     height:150px;
+     width:170px;
+     font-weight: bold;
+     font-size:26px;
+   text-align: center;
+   padding:20px;
+}
+.orange{
+     border:2px dashed red;
+     border-radius: 50%;
+     background-color: orange;
+     height:150px;
+     width:170px;
+     font-weight: bold;
+     font-size:26px;
+   text-align: center;
+   padding:20px;
+}
+.blue{
+    border:2px dashed red;
+     border-radius: 50%;
+     background-color:rgb(85, 85, 242);
+     height:150px;
+     width:170px;
+     font-weight: bold;
+     font-size:26px;
+   text-align: center;
+   padding:20px;
+}
+.green{
+     border:2px dashed red;
+     border-radius: 50%;
+     background-color:rgb(11, 249, 11);
+     height:150px;
+     width:170px;
+     font-weight: bold;
+     font-size:26px;
+   text-align: center;
+   padding:20px;
+}
+
+.pink{
+     border:2px dashed red;
+     border-radius: 50%;
+     background-color:rgb(234, 88, 237);
+     height:150px;
+     width:170px;
+     font-weight: bold;
+     font-size:26px;
+   text-align: center;
+   padding:20px;
+}
+/* 6th part */
+.card1{
+  background-color: rgb(245, 50, 187);
+  border:2px dashed yellow;
+  font-size: 26px;
+}
+.card2{
+  background-color:rgb(255, 102, 0);
+   border:2px dashed yellow;
+}
+.card3{
+  background-color:rgb(92, 92, 250);
+   border:2px dashed yellow;
+}
+.card4{
+  background-color:rgb(236, 58, 58);
+   border:2px dashed yellow;
+}
+/* lego shop */
+.lego{
+   background-color: rgb(238, 188, 49);
+}
+.heart{
+   margin-left: 220px;
+   margin-bottom:50px;
+   background-color: red;
+   color:white;
+}
+.discount{
+color:red;
+font-weight: bold;
+margin-left: 20px;
+margin-top: 20px;
+}
+.legoimg1{
+   background-image: url('https://mytoyshop.com.sg/web/image/product.template/52054/image_256');
+    height:200px;
+   width:200px;
+   margin-left:20px;
+}
+.legoimg1:hover{
+           background-image: url('https://pl.nice-cdn.com/upload/image/product/large/default/81975_174351061867ebdc5a2f35b.256x256.webp');
+           height:200px;
+           width:200px;
+
+         }
+         .legoimg2{
+   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4cnkEDsr8Ci6XsSTR2WUQw2NIszIB2ty9qg&s');
+    height:200px;
+   width:200px;
+  margin-left:20px;
+}
+.legoimg2:hover{
+           background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwX_r59qZQPm5QWKJQkslmCx4YXiu5JdV-MA&s');
+           height:200px;
+           width:200px;
+
+         }
+         .legoimg3{
+   background-image: url('https://cld-assets.dick-blick.com/image/upload/c_limit,w_256/f_auto/q_auto/v1/72474-1147-M-4ww?_a=BAVAZGAQ0');
+    height:200px;
+   width:200px;
+   margin-left:20px;
+}
+.legoimg3:hover{
+           background-image: url('https://www.mavros.com.cy/web/image/product.template/103098/image_256');
+           height:200px;
+           width:200px;
+
+         }
+         .legoimg4{
+   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4ldICAUX4a8U1kAckeMMsPxi5qfVNp8S9Q&s');
+    height:200px;
+   width:200px;
+   margin-left:20px;
+}
+.legoimg4:hover{
+           background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6uBOfIFxP5zqRRiC8Qy0QNIQZ9csjAnP-Vg&s');
+           height:200px;
+           width:200px;
+
+         }
+.font{
+   font-size: small;
+}
+.font1{
+   border:2px solid red;
+   border-radius: 30px;
+   margin-left: 300px;
+  
+   
+}
+.img:hover{
+   background-color:rgb(249, 154, 37);
+   
+}
+/*  */
+.img2{
+   border:2px dashed red;
+   border-radius: 20px;
+
+}
+/* mobikwick */
+.mobi{
+   background-color: blue;
+}
+.yellow1{
+   font-weight: bold;
+   font-size:100px;
+   color:yellow;
+}
+/* why choose us */
+.line1{
+   border:2px solid red;
+   width:400px;
+   font-weight: 900;
+   margin-top:35px;
+}
+.fontimg{
+   background-color: rgb(244, 213, 62);
+   border-radius: 60%;
+   width:50px;
+   height:200px;
+ margin-left: 80px;
+   color:white;
+   
+}
+.mobcard{
+   border:none;
+}
+/* final part */
+.finalhr{
+   width:100px;
+   color:yellow;
+}
+li{
+   list-style-type:none;
+}
+a{
+   text-decoration: none;
+}
+/* carousel */
+.caroimg{
+   border:2px dashed yellow;
+   border-radius: 30px;
+}
