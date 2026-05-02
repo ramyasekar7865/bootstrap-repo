@@ -1,0 +1,15 @@
+h3{
+    color:rgb(255, 4, 0);
+    background-color: bisque;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    font-weight: bold;
+}
+h2{
+    text-decoration: underline;
+    text-align: center;
+    padding:20px;
+}

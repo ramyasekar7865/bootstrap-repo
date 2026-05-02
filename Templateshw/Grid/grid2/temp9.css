@@ -1,0 +1,47 @@
+.g1{
+    height: 285px;
+}
+.main{
+    height: 302px;
+     background-color: navy;
+    
+}
+body{
+    background-color:grey;
+}
+ /* .g2{
+    height: 95px; */
+ 
+ .p1{
+    background-color: aqua;
+    height:90px;
+ }
+  .p2{
+    background-color:pink;
+    height:90px;
+     width:270px;
+ }
+  .p3{
+    background-color: red;
+    height:90px;
+ }
+  .p4{
+    background-color: yellow;
+    height:90px;
+    width:270px;
+ }
+ .b1{
+    background-color: olive;
+    height:95px;
+   
+ }
+ .c1{
+    height:95px;
+    background-color: brown;
+     width:264px;
+ }
+  .c2{
+    height:185px;
+    background-color: skyblue;
+     width:264px;
+ }

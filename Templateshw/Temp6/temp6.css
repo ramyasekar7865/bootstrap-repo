@@ -1,0 +1,9 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiy1mOC5nfTXNJzzFzy5AFxM7SID9dXps4fw&s');
+   background-size: cover;
+
+}
+
+.container-fluid{
+    text-align: center;
+}
